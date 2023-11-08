@@ -1,4 +1,4 @@
-# Hello, I'm Tom 👋
+# Hello! 👋
 
 I'm a passionate and experienced web developer with a strong foundation in Computer Science. I'm currently a second-year student at the University of Waterloo, where I'm honing my skills and knowledge. My journey into the world of technology has led me to explore various aspects of web development, from front-end to back-end, and even machine learning.
 

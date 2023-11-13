@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a passionate and experienced web developer with a strong foundation in Computer Science. I'm currently a second-year student at the University of Waterloo, where I'm honing my skills and knowledge. My journey into the world of technology has led me to explore various aspects of web development, from front-end to back-end, and even machine learning.
+I'm a passionate and experienced web developer with a strong foundation in Computer Science. I'm currently a second-year student at the University of Waterloo, where I'm honing my skills and knowledge. 
 
 ## 🔧 Technical Skills
 
@@ -16,7 +16,6 @@ I'm a passionate and experienced web developer with a strong foundation in Compu
 
 ## 🌟 Achievements
 
-- Achieved a faculty average of 94% in challenging Computer Science courses at the University of Waterloo.
 - Developed full-stack web applications and command-line utilities using a variety of technologies.
 - Deployed back-end applications on AWS using Lambda, CloudWatch, API Gateway, and DynamoDB.
 - Trained machine learning classifiers using scikit-learn and have a solid foundation in data science and machine learning.
